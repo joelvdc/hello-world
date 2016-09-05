@@ -1,2 +1,3 @@
 # hello-world
-my first repository
+
+I'm Joel, a civil engineer and developer. Looking forward to learn some github and android!
